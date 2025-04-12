@@ -38,14 +38,13 @@ Here are a few screenshots highlighting key stages of the cleaning process:
 🔹 Cleaning Steps
 
 
-📂 Files in This Repo
+## 📂 Files in This Repo
 dirty data.xlsx: The original dataset
 
-cleaned_data.xlsx: Final cleaned version
+Data clening project.xlsx: Final cleaned version
 
+Screenshots of cleaning steps
 
-screenshots/: Folder containing visual highlights of the work
-
-✅ Project Status
+## ✅ Project Status
 ✅ Completed — ready for analysis, reporting, or integration with other workflows.
 
